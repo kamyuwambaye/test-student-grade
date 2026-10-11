@@ -31,7 +31,6 @@ A Windows Forms app for keeping track of student grades. You can add students, s
 
 ## Setup
 
-You need Windows and the .NET 6.0 SDK.
 
 ```bash
 git clone https://github.com/kamyuwambaye/Student-Grade-Management-System.git
@@ -69,7 +68,7 @@ Student-Grade-Management-System/
 
 ## How it works
 
-Built with C#, .NET 6.0 and Windows Forms. Students are stored in a `Dictionary` keyed by name, so lookups are quick.
+ Students are stored in a `Dictionary` keyed by name, so lookups are quick.
 
 `GradeManager` holds the logic and keeps it separate from the UI:
 
