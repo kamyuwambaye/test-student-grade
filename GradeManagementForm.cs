@@ -9,7 +9,6 @@ namespace StudentGradeManagement
 
         public GradeManagementForm()
         {
-            InitializeComponent();
             SetupUI();
         }
 
